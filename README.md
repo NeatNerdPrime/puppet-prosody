@@ -1,6 +1,6 @@
 ![Prosody](http://prosody.im/prosody.png)
 
-[![Build Status](https://travis-ci.org/mayflower/puppet-prosody.svg?branch=master)](https://travis-ci.org/mayflower/puppet-prosody)
+![Build Status](https://github.com/voxpupuli/puppet-prosody/actions/workflows/ci.yml/badge.svg?branch=master)
 
 Puppet module for the [Prosody](http://prosody.im/) Jabber/XMPP server.
 
