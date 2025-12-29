@@ -3,4 +3,4 @@ fixtures:
   repositories:
     apt: https://github.com/puppetlabs/puppetlabs-apt.git
     stdlib: https://github.com/puppetlabs/puppetlabs-stdlib.git
-    vcs-repo: https://github.com/puppetlabs/puppetlabs-vcsrepo.git
+    vcsrepo: https://github.com/puppetlabs/puppetlabs-vcsrepo.git
