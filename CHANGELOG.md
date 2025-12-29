@@ -4,7 +4,21 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
-## [v2.0.0](https://github.com/voxpupuli/puppet-prosody/tree/v2.0.0) (2025-09-12)
+## [v2.0.1](https://github.com/voxpupuli/puppet-prosody/tree/v2.0.1) (2025-12-29)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-prosody/compare/v2.0.0...v2.0.1)
+
+**Fixed bugs:**
+
+- fix broken template for community modules [\#128](https://github.com/voxpupuli/puppet-prosody/pull/128) ([artonix101](https://github.com/artonix101))
+- fix daemonize parameter [\#125](https://github.com/voxpupuli/puppet-prosody/pull/125) ([trefzer](https://github.com/trefzer))
+
+**Closed issues:**
+
+- Configuratin option `daemonize` is deprecated [\#123](https://github.com/voxpupuli/puppet-prosody/issues/123)
+- Typo in `prosody.cfg.erb` [\#122](https://github.com/voxpupuli/puppet-prosody/issues/122)
+
+## [v2.0.0](https://github.com/voxpupuli/puppet-prosody/tree/v2.0.0) (2025-09-13)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-prosody/compare/v1.0.0...v2.0.0)
 
