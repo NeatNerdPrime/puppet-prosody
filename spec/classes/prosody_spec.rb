@@ -75,6 +75,7 @@ describe 'prosody' do
       context 'with community modules' do
         let(:params) { { community_modules: %w[coolmod othermod] } }
 
+        it { is_expected.to compile.with_all_deps }
         it {
           is_expected.to contain_file('/etc/prosody/prosody.cfg.lua'). \
             with_content(%r{"[^"]+/mod_coolmod";}). \
